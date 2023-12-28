@@ -1,0 +1,185 @@
+body{
+    background-color: gray;
+}
+.bangladesh{
+    float: left;
+}
+.green{
+    width: 320px;
+    height: 180px;
+    background-color: green;
+    margin-left: 10px;
+    position: relative;
+}
+.red{
+    width: 75px;
+    height: 75px;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+    background-color: red;
+}
+.japan{
+    float: left;
+}
+.white{
+    width: 320px;
+    height: 180px;
+    background-color: white;
+    margin-left: 10px;
+    position: relative;
+}
+.red{
+    width: 75px;
+    height: 75px;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+    background-color: red;
+}
+.ireland{
+    float: left;
+}
+.green1{
+    width: 106.667px;
+    height: 180px;
+    margin-left: 10px;
+    background-color: green;
+    float: left;
+}
+.white1{
+    width: 106.667px;
+    height: 180px;
+    background-color: white;
+    float: left;
+}
+.orange{
+    width: 106.667px;
+    height: 180px;
+    background-color: orange;
+    float: left;
+}
+.italy{
+    float: left;
+}
+.green2{
+    width: 106.667px;
+    height: 180px;
+    margin-left: 10px;
+    background-color: green;
+    float: left;
+}
+.white2{
+    width: 106.667px;
+    height: 180px;
+    background-color: white;
+    float: left;
+}
+.red1{
+    width: 106.667px;
+    height: 180px;
+    background-color: red;
+    float: left;
+}
+.mexico{
+    float: left;
+    margin-top: 10px;
+}
+.green3{
+    width: 106.667px;
+    height: 180px;
+    margin-left: 10px;
+    background-color: green;
+    float: left;
+}
+.white3{
+    width: 106.667px;
+    height: 180px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+img{
+    width: 75px;
+    height: 75px;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.red2{
+    width: 106.667px;
+    height: 180px;
+    background-color: red;
+    float: left;
+}
+.france{
+    float: left;
+    margin-top: 10px;
+}
+.blue{
+    width: 106.667px;
+    height: 180px;
+    margin-left: 10px;
+    background-color: blue;
+    float: left;
+}
+.white4{
+    width: 106.667px;
+    height: 180px;
+    background-color: white;
+    float: left;
+}
+.red3{
+    width: 106.667px;
+    height: 180px;
+    background-color: red;
+    float: left;
+}
+.belgium{
+    float: left;
+    margin-top: 10px;
+}
+.black{
+    width: 106.667px;
+    height: 180px;
+    margin-left: 10px;
+    background-color: black;
+    float: left;
+}
+.yellow{
+    width: 106.667px;
+    height: 180px;
+    background-color: yellow;
+    float: left;
+}
+.red4{
+    width: 106.667px;
+    height: 180px;
+    background-color: red;
+    float: left;
+}
+.germany{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.black1{
+    width: 320px;
+    height: 60px;
+    background-color: black;
+}
+.red5{
+    width: 320px;
+    height: 60px;
+    background-color: red;
+}
+.yellow1{
+    width: 320px;
+    height: 60px;
+    background-color: yellow;
+}
